@@ -11,3 +11,6 @@
 
 ### InteliiJ
 * inteliiJ에서 jar 파일 생성
+
+### javaScript
+* 문자열 자르기
