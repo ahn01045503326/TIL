@@ -18,3 +18,6 @@
 ### etc
 * Jconsole 모니터링
 * Jmeter 부하테스트
+
+### java
+* singleton example
