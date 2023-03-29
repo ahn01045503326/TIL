@@ -14,6 +14,7 @@
 
 ### javaScript
 * 문자열 자르기
+* fabric js (canvas를 쉽게 그려주는 라이브러리)
 
 ### etc
 * Jconsole 모니터링
