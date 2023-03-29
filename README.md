@@ -14,3 +14,7 @@
 
 ### javaScript
 * 문자열 자르기
+
+### etc
+* Jconsole 모니터링
+* Jmeter 부하테스트
