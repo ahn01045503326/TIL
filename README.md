@@ -24,3 +24,6 @@
 ### java
 * singleton example
 * blob FormData example
+
+### redis
+* redis-cli
