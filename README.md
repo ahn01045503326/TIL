@@ -27,3 +27,6 @@
 
 ### redis
 * redis-cli
+
+### spring boot
+* ResponseEntity
