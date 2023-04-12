@@ -16,6 +16,7 @@
 ### javaScript
 * 문자열 자르기
 * fabric js (canvas를 쉽게 그려주는 라이브러리)
+* blob FormData example
 
 ### etc
 * Jconsole 모니터링
@@ -23,7 +24,7 @@
 
 ### java
 * singleton example
-* blob FormData example
+* Constant example
 
 ### redis
 * redis-cli
