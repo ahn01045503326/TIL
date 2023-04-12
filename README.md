@@ -12,6 +12,7 @@
 ### InteliiJ
 * inteliiJ에서 jar 파일 생성
 * 로컬 jar 라이브러리 추가
+* stach 사용법
 
 ### javaScript
 * 문자열 자르기
