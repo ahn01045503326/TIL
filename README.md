@@ -9,8 +9,8 @@
 ### db
 * mysql dump 만들기
 
-### InteliiJ
-* inteliiJ에서 jar 파일 생성
+### IntelliJ
+* intelliJ에서 jar 파일 생성
 * 로컬 jar 라이브러리 추가
 * stach 사용법
 
