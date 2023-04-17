@@ -32,3 +32,6 @@
 
 ### spring boot
 * ResponseEntity
+
+### JQuery
+* disabled 속성 변경
