@@ -33,6 +33,7 @@
 
 ### spring boot
 * ResponseEntity
+* 예외처리
 
 ### JQuery
 * disabled 속성 변경
