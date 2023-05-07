@@ -28,6 +28,12 @@
 * singleton example
 * Constant example
 * 배열 for문 example
+* 잘 설계된 VO 클래스
+* JVM이 사용하는 메모리 영역
+* 상속 체이닝과 super
+* Upcasting과 Downcasting
+* 메서드의 재정의(Override)
+* 추상클래스와 인터페이스
 
 ### redis
 * redis-cli
