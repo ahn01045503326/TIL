@@ -35,6 +35,7 @@
 * 메서드의 재정의(Override)
 * 추상클래스와 인터페이스
 * JWT
+* error code
 
 ### redis
 * redis-cli
@@ -42,6 +43,8 @@
 ### spring boot
 * ResponseEntity
 * 예외처리
+* 유효성 검사 (validation)
+* SpringSecurity
 
 ### JQuery
 * disabled 속성 변경
