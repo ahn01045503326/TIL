@@ -36,6 +36,7 @@
 * 추상클래스와 인터페이스
 * JWT
 * error code
+* Queue
 
 ### redis
 * redis-cli
