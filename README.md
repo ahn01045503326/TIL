@@ -54,3 +54,6 @@
 
 ### JQuery
 * disabled 속성 변경
+
+### Web
+* Web 구성
