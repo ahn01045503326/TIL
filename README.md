@@ -59,3 +59,4 @@
 * Web 구성
 * HTTP (Hypertext Transfer Protocol)
 * URI (Uniform Resource Identifier)
+* REST (Representational State Transfer) API
