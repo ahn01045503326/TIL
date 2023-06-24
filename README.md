@@ -61,3 +61,4 @@
 * URI (Uniform Resource Identifier)
 * REST (Representational State Transfer) API
 * Spring Boot
+* POST,PUT,PATCH 차이
