@@ -1,4 +1,5 @@
 # Today I Learned(TIL) Wiki
+
 ----
 
 ### AWS
@@ -36,11 +37,8 @@
 * 추상클래스와 인터페이스
 * JWT
 * error code
-<<<<<<< HEAD
 * Lambda expression
-=======
 * Queue
->>>>>>> refs/rewritten/main-2
 
 ### redis
 * redis-cli
@@ -51,6 +49,7 @@
 * 유효성 검사 (validation)
 * SpringSecurity
 * Builder
+* Spring Data JPA
 
 ### JQuery
 * disabled 속성 변경
