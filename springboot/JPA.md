@@ -73,6 +73,23 @@ Spring Data JPA는 JPA를 한 단계 더 추상화시킨 Repository 인터페이
 
 Spring Data JPA를 사용하면 사용자는 더욱 간단하게 데이터 접근이 가능해진다. 
 ````
+### 5. appication.yml
+````
+spring:
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.MySQL8Dialect
+    hibernate:
+      ddl-auto: validate
+  datasource:
+    url: jdbc:mysql://localhost:3306/user?useSSL=false&useUnicode=true&allowPublicKeyRetrieval=true
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: username
+    password: password
+````
 
 ### 정리
 ````
