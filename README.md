@@ -52,6 +52,7 @@
 * Spring Data JPA
 * Filter
 * Interceptor
+* 필터(Filter)와 인터셉터(Interceptor)의 차이
 
 ### JQuery
 * disabled 속성 변경
