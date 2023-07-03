@@ -67,3 +67,4 @@
 * POST,PUT,PATCH 차이
 * Http Session
 * Cookie
+* Session과 Cookie 차이
