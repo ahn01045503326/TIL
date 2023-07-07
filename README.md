@@ -68,6 +68,7 @@
 * Http Session
 * Cookie
 * Session과 Cookie 차이
+* JSP
 
 ### Spring
 * Spring Framework
