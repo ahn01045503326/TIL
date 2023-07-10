@@ -71,6 +71,7 @@
 * JSP
 * Servlet
 * JSTL
+* Vue
 
 ### Spring
 * Spring Framework
