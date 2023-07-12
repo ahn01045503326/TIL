@@ -73,6 +73,7 @@
 * JSTL
 * Vue
 * ajax
+* 동기와 비동기 (synchronous & Asynchronous)
 
 ### Spring
 * Spring Framework
