@@ -40,6 +40,7 @@
 * Lambda expression
 * Queue
 * OOP(Object Oriented Programming)
+* 캡슐화
 
 ### redis
 * redis-cli
