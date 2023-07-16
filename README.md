@@ -42,6 +42,7 @@
 * OOP(Object Oriented Programming)
 * 캡슐화
 * 추상화
+* 상속화
 
 ### redis
 * redis-cli
