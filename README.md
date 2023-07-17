@@ -42,7 +42,8 @@
 * OOP(Object Oriented Programming)
 * 캡슐화
 * 추상화
-* 상속화
+* 상속성
+* 다향성
 
 ### redis
 * redis-cli
