@@ -49,6 +49,7 @@
 * JVM 구조
 * 예외(Exception)의 종류
 * Process 와 Thread
+* String
 
 ### redis
 * redis-cli
