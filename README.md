@@ -52,6 +52,7 @@
 * String
 * StringBuffer / StringBuilder
 * 접근 제한자
+* 클래스 멤버 변수 초기화 순서
 
 ### redis
 * redis-cli
