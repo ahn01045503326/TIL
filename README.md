@@ -55,6 +55,7 @@
 * 클래스 멤버 변수 초기화 순서
 * static
 * try-with-resources
+* Wrapper Class
 
 ### redis
 * redis-cli
