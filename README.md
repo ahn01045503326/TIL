@@ -58,6 +58,7 @@
 * Wrapper Class
 * Reflection
 * 컬렉션 프레임워크
+* Optional API
 
 ### redis
 * redis-cli
