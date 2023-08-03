@@ -60,6 +60,7 @@
 * 컬렉션 프레임워크
 * Optional API
 * Vector와 List의 차이
+* Serialize
 
 ### redis
 * redis-cli
