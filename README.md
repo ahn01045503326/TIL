@@ -11,6 +11,7 @@
 * mysql dump 만들기
 * 데이터베이스 특징 및 언어 
 * 쿼리의 수행 순서
+* 트리거
 
 ### IntelliJ
 * intelliJ에서 jar 파일 생성
