@@ -15,6 +15,7 @@
 * Index
 * 정규화
 * SQL Injection
+* RDBMS와 NoSQL의 차이
 
 ### IntelliJ
 * intelliJ에서 jar 파일 생성
