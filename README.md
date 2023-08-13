@@ -16,6 +16,9 @@
 * 정규화
 * SQL Injection
 * RDBMS와 NoSQL의 차이
+* 트랜잭션
+* DB락
+* Optimizer
 
 ### IntelliJ
 * intelliJ에서 jar 파일 생성
