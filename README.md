@@ -19,6 +19,7 @@
 * 트랜잭션
 * DB락
 * Optimizer
+* DB 튜닝
 
 ### IntelliJ
 * intelliJ에서 jar 파일 생성
