@@ -20,6 +20,7 @@
 * DB락
 * Optimizer
 * DB 튜닝
+* inner join과 outer join의 차이
 
 ### IntelliJ
 * intelliJ에서 jar 파일 생성
