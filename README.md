@@ -24,6 +24,7 @@
 * GROUP BY 와 HAVING
 * DELETE, TRUNCATE, DROP의 차이
 * 클러스터링과 리플리케이션의 차이
+* HAVING과 WHERE의 차이
 
 ### IntelliJ
 * intelliJ에서 jar 파일 생성
