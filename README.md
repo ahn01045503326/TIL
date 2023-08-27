@@ -94,6 +94,7 @@
 * 필터(Filter)와 인터셉터(Interceptor)의 차이
 * Spring AOP
 * MDC(Mapped Diagnostic Context)
+* logback과 log4j2
 
 ### JQuery
 * disabled 속성 변경
