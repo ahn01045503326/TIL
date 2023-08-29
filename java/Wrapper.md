@@ -46,7 +46,7 @@ Wrapper class → 기본 자료형으로 변환하는 것을 UnBoxing이라 합�
 |                                          | DB에서 자료형이 정수형이지만 null 값이 필요한 경우 Integer 사용 |
 
 ### 박싱(Boxing)과 언박싱(UnBoxing)
-![박싱과 언박싱](boxing.png)
+![박싱과 언박싱](/image/boxing.png)
 ````
 public class Wrapper_Ex {
     public static void main(String[] args)  {

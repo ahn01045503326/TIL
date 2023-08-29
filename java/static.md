@@ -76,11 +76,11 @@ Process finished with exit code 0
 ### static 메소드
 static메소드는 객체의 생성 없이 호출이 가능하고, 객체에서는 호출이 불가능하다.또한 static메소드 안에서는 인스턴스 변수 접근이 불가능 하다.
 
-![static메소드1.png](static메소드1.png)
+![static메소드1.png](/image/static메소드1.png)
 
 위와 같이 static메소드 안에선 인스턴스 변수는 접근이 불가능하다.
 
-![static메소드2.png](static메소드2.png)
+![static메소드2.png](/image/static메소드2.png)
 
 static메소드 안에선 static변수만 접근이 가능한 것을 볼 수 있다.
 

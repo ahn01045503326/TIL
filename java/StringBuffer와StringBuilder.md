@@ -10,7 +10,7 @@ String 객체는 한번 생성되면 불변적인 특징 때문에 값을 업데
 
 StringBuffer / StringBuilder 는 가변성 가지기 때문에 .append() .delete() 등의 API를 이용하여 동일 객체내에서 문자열 크기를 변경하는 것이 가능하다.
 
-![StringBuffer](StringBuffer.png)
+![StringBuffer](/image/StringBuffer.png)
 
 따라서 값이 변경될 때마다 새롭게 객체를 만드는 String 보다 훨씬 빠르기 때문에, 문자열의 추가, 수정, 삭제가 빈번하게 발생할 경우라면 String 클래스가 아닌 StringBuffer / StringBuilder를 사용하는 것이 이상적이라 말할 수 있다.
 
@@ -47,7 +47,7 @@ star += "*";
 StringBuffer sb= new StringBuffer("*");
 sb.append("*********");
 ````
-![StringBuffer2](StringBuffer2.png)
+![StringBuffer2](/image/StringBuffer2.png)
 
 String 객체일 경우 매번 별 문자열이 업데이트 될때마다 계속해서 메모리 블럭이 추가되게 되고, 일회용으로 사용된 이 메모리들은 후에 Garbage Collector(GC)의 제거 대상이 되어 빈번하게 Minor GC를 일으켜 Full GC(Major Gc)를 일으킬수 있는 원인이 된다.
 

@@ -30,7 +30,7 @@ str = str + " world";
 
 System.out.println(str); // hello world
 ````
-![string](string.png)
+![string](/image/string.png)
 
 이외에도 문자열을 다루는데 있어 가장 많이 사용하는 trim 이나 toUpperCase 메소드 사용 형태를 보면, 문자열이 변경되는 것 처럼 생각 될 수도 있지만 해당 메소드 수행 시 또 다른 String 객체를 생성하여 리턴할 뿐이다.
 

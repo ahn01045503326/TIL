@@ -14,4 +14,4 @@ A와 B에 대해 수행하는 것은, A와 B의 합집합을 말합니다. 벤�
 
 outer join에는 LEFT OUTER JOIN, RIGHT OUTER JOIN, FULL OUTER JOIN이 있습니다.
 
-![join](join.jpeg)
+![join](/image/join.jpeg)

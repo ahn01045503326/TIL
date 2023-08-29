@@ -1,6 +1,6 @@
 # Queue
 
-![img.png](IdeaProjects/TIL/image/img.png)
+![img.png](/image/img.png)
 Queue는 자료구조의 스택과 반대의 구조라고 생각하면 된다.
 
 큐는 FIFO(First In First Out)의 형태를 가지게 됩니다.
