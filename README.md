@@ -80,6 +80,7 @@
 * Vector와 List의 차이
 * Serialize
 * MultiValueMap 와 HashMap 차이
+* request ip 구하기
 
 ### redis
 * redis-cli
