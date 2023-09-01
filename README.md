@@ -6,6 +6,7 @@
 * VPC 이용하여 EC2 / RDS 관리
 * ec2 linux에서 java 설치
 * ec2 linux에서 jar 실행
+* Lambda
 
 ### db
 * mysql dump 만들기
