@@ -7,6 +7,7 @@
 * ec2 linux에서 java 설치
 * ec2 linux에서 jar 실행
 * Lambda
+* EB(Elastic Beanstalk)
 
 ### db
 * mysql dump 만들기
