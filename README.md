@@ -8,6 +8,7 @@
 * ec2 linux에서 jar 실행
 * Lambda
 * EB(Elastic Beanstalk)
+* ALB(Application Load Balancer)
 
 ### db
 * mysql dump 만들기
