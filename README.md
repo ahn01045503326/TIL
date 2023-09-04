@@ -9,6 +9,7 @@
 * Lambda
 * EB(Elastic Beanstalk)
 * ALB(Application Load Balancer)
+* Route 53
 
 ### db
 * mysql dump 만들기
