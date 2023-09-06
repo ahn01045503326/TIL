@@ -11,6 +11,7 @@
 * ALB(Application Load Balancer)
 * Route 53
 * CloudFront
+* WAF(Web Application Firewall)
 
 ### db
 * mysql dump 만들기
