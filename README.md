@@ -12,6 +12,7 @@
 * Route 53
 * CloudFront
 * WAF(Web Application Firewall)
+* Elasticsearch
 
 ### db
 * mysql dump 만들기
