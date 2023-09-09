@@ -106,6 +106,7 @@
 * MDC(Mapped Diagnostic Context)
 * logback과 log4j2
 * static변수에 application.yml에 있는 값 가져오기
+* 모든 Request Header 값 가져오기
 
 ### JQuery
 * disabled 속성 변경
