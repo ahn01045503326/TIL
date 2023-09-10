@@ -107,6 +107,7 @@
 * logback과 log4j2
 * static변수에 application.yml에 있는 값 가져오기
 * 모든 Request Header 값 가져오기
+* IP 주소를 필터링 (서브넷 마스크 또는 CIDR)
 
 ### JQuery
 * disabled 속성 변경
