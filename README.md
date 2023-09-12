@@ -35,6 +35,7 @@
 * JOIN에서 ON과 WHERE의 차이
 * 서브쿼리
 * Union
+* 셀프 조인(SELF JOIN)
 
 ### IntelliJ
 * intelliJ에서 jar 파일 생성
