@@ -36,6 +36,7 @@
 * 서브쿼리
 * Union
 * 셀프 조인(SELF JOIN)
+* 사용자 정의 변수(@)
 
 ### IntelliJ
 * intelliJ에서 jar 파일 생성
