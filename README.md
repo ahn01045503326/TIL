@@ -132,6 +132,7 @@
 * Vue
 * ajax
 * 동기와 비동기 (synchronous & Asynchronous)
+* CORS(Cross-Origin Resource Sharing)
 
 ### Spring
 * Spring Framework
