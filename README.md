@@ -48,6 +48,7 @@
 * fabric js (canvas를 쉽게 그려주는 라이브러리)
 * blob FormData example
 * trim 문자열 양쪽 공백 제거
+* 모달(Modal)
 
 ### etc
 * Jconsole 모니터링
