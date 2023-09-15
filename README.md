@@ -53,6 +53,7 @@
 ### etc
 * Jconsole 모니터링
 * Jmeter 부하테스트
+* MSA(Microservice Architecture)
 
 ### java
 * singleton example
