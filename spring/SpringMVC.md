@@ -32,7 +32,7 @@ ViewResolver는 ModelAndView를 처리하여 View를 그리는 역할을 한다.
 
 ### Spring MVC 동작 구조
 
-![MVC구조](/image/mvc구조.png)
+![MVC구조](../image/mvc동작.png)
 
 ````
 1. 핸들러 조회 : 핸들러 매핑을 통해 요청 URL에 매핑된 핸들러(컨트롤러)를 조회
